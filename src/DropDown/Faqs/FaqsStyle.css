@@ -1,0 +1,27 @@
+.faqs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.faqs h3{
+    color: gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.accor{
+    width: 600px;
+}
+.num1{
+    background-color: black;
+}
+.num1 h6{
+    color: white;
+}
